@@ -45,10 +45,26 @@ https://www.brunner.bi/measurekiller
 
 Política de Privacidade | Termos de Uso
 
-📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo](https://www.youtube.com/watch?v=QAR1OFngbGw)
+## 🎥 Vídeos Demonstrativos
 
-📹 **Assista ao vídeo:** [YouTube - Clean and optimize shared Power BI semantic models (Power BI Service)](https://youtu.be/P1KIjzKR1DU)
+### 1. Measure Killer Demo
+[![Measure Killer Demo](https://img.youtube.com/vi/QAR1OFngbGw/maxresdefault.jpg)](https://www.youtube.com/watch?v=QAR1OFngbGw)  
+*Clique na imagem para assistir*
 
-📹 **Assista ao vídeo:** [YouTube - Power BI / Fabric Tenant Scan - Introduction](https://www.youtube.com/watch?v=LYehTZeKl1I)
+---
 
-📹 **Assista ao vídeo:** [YouTube - Revolucionando o Power BI: um mergulho profundo no Measure Killer com Gregor Brunner](https://www.youtube.com/watch?v=y1nyUd-JxLM)
+### 2. Clean and optimize shared Power BI semantic models (Power BI Service)
+[![Optimize Power BI Models](https://img.youtube.com/vi/P1KIjzKR1DU/maxresdefault.jpg)](https://youtu.be/P1KIjzKR1DU)  
+*Clique na imagem para assistir*
+
+---
+
+### 3. Power BI / Fabric Tenant Scan - Introduction
+[![Tenant Scan Introduction](https://img.youtube.com/vi/LYehTZeKl1I/maxresdefault.jpg)](https://www.youtube.com/watch?v=LYehTZeKl1I)  
+*Clique na imagem para assistir*
+
+---
+
+### 4. Revolucionando o Power BI: um mergulho profundo no Measure Killer com Gregor Brunner
+[![Mergulho no Measure Killer](https://img.youtube.com/vi/y1nyUd-JxLM/maxresdefault.jpg)](https://www.youtube.com/watch?v=y1nyUd-JxLM)  
+*Clique na imagem para assistir*
