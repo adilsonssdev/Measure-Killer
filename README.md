@@ -46,5 +46,9 @@ https://www.brunner.bi/measurekiller
 Política de Privacidade | Termos de Uso
 
 📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo](https://www.youtube.com/watch?v=QAR1OFngbGw)
-📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo](https://youtu.be/P1KIjzKR1DU)
-📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo]()
+
+📹 **Assista ao vídeo:** [YouTube - Clean and optimize shared Power BI semantic models (Power BI Service)](https://youtu.be/P1KIjzKR1DU)
+
+📹 **Assista ao vídeo:** [YouTube - Power BI / Fabric Tenant Scan - Introduction](https://www.youtube.com/watch?v=LYehTZeKl1I)
+
+📹 **Assista ao vídeo:** [YouTube - Revolucionando o Power BI: um mergulho profundo no Measure Killer com Gregor Brunner](https://www.youtube.com/watch?v=y1nyUd-JxLM)
