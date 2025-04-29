@@ -46,3 +46,5 @@ https://www.brunner.bi/measurekiller
 Política de Privacidade | Termos de Uso
 
 📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo](https://www.youtube.com/watch?v=QAR1OFngbGw)
+📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo](https://youtu.be/P1KIjzKR1DU)
+📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo]()
