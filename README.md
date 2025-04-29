@@ -44,3 +44,5 @@ https://www.brunner.bi/measurekiller
 © 2025 Brunner BI GmbH
 
 Política de Privacidade | Termos de Uso
+
+📹 **Assista ao vídeo:** [YouTube - Measure Killer Demo](https://www.youtube.com/watch?v=QAR1OFngbGw)
